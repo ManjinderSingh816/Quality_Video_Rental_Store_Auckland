@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quality_Video_Rental_Store_Auckland", "Quality_Video_Rental_Store_Auckland\Quality_Video_Rental_Store_Auckland.csproj", "{583BD309-DA56-487B-AECD-4C64556414CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QualityVideoRentalStoreUnitTests", "QualityVideoRentalStoreUnitTests\QualityVideoRentalStoreUnitTests.csproj", "{285DC1D9-FEE7-40E3-9540-A70BF6883B7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{583BD309-DA56-487B-AECD-4C64556414CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583BD309-DA56-487B-AECD-4C64556414CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583BD309-DA56-487B-AECD-4C64556414CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583BD309-DA56-487B-AECD-4C64556414CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{285DC1D9-FEE7-40E3-9540-A70BF6883B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285DC1D9-FEE7-40E3-9540-A70BF6883B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285DC1D9-FEE7-40E3-9540-A70BF6883B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285DC1D9-FEE7-40E3-9540-A70BF6883B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D819F708-2722-47C2-BC45-8B14D7CD0623}
+	EndGlobalSection
+EndGlobal
